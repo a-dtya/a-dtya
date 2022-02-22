@@ -13,6 +13,10 @@
         <p>• 💬 Ask me about: <b>C++ and related basic stuff :)</b></p>
         <p>• 📫 How to reach me: <b>adithyavinod1943@gmail.com</b></p>
 </div><br>
+<div align="center">
+    <img height="155em" src="https://github-readme-streak-stats.herokuapp.com?user=a-dtya&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=a-dtya" />
+</div>    
 
     
 ---
