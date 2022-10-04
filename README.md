@@ -3,7 +3,7 @@
     
 <h1 align="left">Hi 👋🏽, I'm Adithya V</h1>
 
-
+<h2 align="left">Model Engineering College</h2>
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
