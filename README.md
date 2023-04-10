@@ -8,9 +8,9 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Basics of C++ , Data structures and Algorithms , taking baby steps in competetive coding.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
-        <p>• 💬 Ask me about: <b>C++ and related basic stuff :)</b></p>
+        <p>• 📚 I’m currently learning: <b>Data Structures and Algorithms, React, Node js, MongoDB, MySQL, Firebase </b></p>
+        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | </b></p>
+        <p>• 💬 Ask me about: <b>Programming and cool tech stuff :)</b></p>
         <p>• 📫 How to reach me: <b>adithyavinod1943@gmail.com</b></p>
 </div><br>
 <div align="center">
