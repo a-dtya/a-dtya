@@ -8,7 +8,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Data Structures and Algorithms, React, Node js, MongoDB, MySQL, Firebase </b></p>
+        <p>• 📚 I’m currently learning: <b>Data Structures and Algorithms, Reactjs, Nodejs, MongoDB, MySQL, Supabase </b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | </b></p>
         <p>• 💬 Ask me about: <b>Programming and cool tech stuff :)</b></p>
         <p>• 📫 How to reach me: <b>adithyavinod1943@gmail.com</b></p>
