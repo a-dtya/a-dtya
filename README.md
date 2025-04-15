@@ -23,7 +23,7 @@
 
 <div>
   <h3>🧰 Languages and tools I'm learning until now:</h3><br>
-    <a href="https://"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Spring Boot"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="Maria DB"></a>
     <a href="https://"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*h7OiiKMWuC6qX98-dmeQNA.png" alt="Java"></a>
     <a href="https://"><img src="https://www.opc-router.de/wp-content/uploads/2023/07/Docker_150x150px-01-01-01.png" alt="Docker"></a>
     <a href="https://"><img src="https://dxc.scene7.com/is/image/dxc/AWS_logo-1050x1050?qlt=90&wid=1200&ts=1733359889549&$square_desktop$&dpr=off" alt="AWS"></a>
