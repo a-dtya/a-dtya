@@ -3,14 +3,14 @@
     
 <h1 align="left">Hi 👋🏽, I'm Adithya V</h1>
 
-<h2 align="left">Model Engineering College</h2>
-<h3 align="left">I have a passion for programming and technology! 🚀</h3>
+<h2 align="left">Govt. Model Engineering College</h2>
+<h3 align="left">Learning new stuff day by day! 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Data Structures and Algorithms, Reactjs, Nodejs, MongoDB, MySQL, Supabase </b></p>
+        <p>• 📚 I’m currently learning: <b>Data Structures and Algorithms, Java, SpringBoot, Docker and AWS</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | </b></p>
-        <p>• 💬 Ask me about: <b>Programming and cool tech stuff :)</b></p>
+        <p>• 💬 Ask me about: <b>How to use chatgpt to write your code :)</b></p>
         <p>• 📫 How to reach me: <b>adithyavinod1943@gmail.com</b></p>
 </div><br>
 <div align="center">
@@ -23,8 +23,11 @@
 
 <div>
   <h3>🧰 Languages and tools I'm learning until now:</h3><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
+    <a href="https://"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Spring Boot"></a>
+    <a href="https://"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*h7OiiKMWuC6qX98-dmeQNA.png" alt="Java"></a>
+    <a href="https://"><img src="https://www.opc-router.de/wp-content/uploads/2023/07/Docker_150x150px-01-01-01.png" alt="Docker"></a>
+    <a href="https://"><img src="https://dxc.scene7.com/is/image/dxc/AWS_logo-1050x1050?qlt=90&wid=1200&ts=1733359889549&$square_desktop$&dpr=off" alt="AWS"></a>
+    
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
