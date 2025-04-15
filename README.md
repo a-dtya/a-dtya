@@ -24,9 +24,14 @@
 <div>
   <h3>🧰 Languages and tools I'm learning until now:</h3><br>
     <a href="https://"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="Maria DB"></a>
-    <a href="https://"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*h7OiiKMWuC6qX98-dmeQNA.png" alt="Java"></a>
-    <a href="https://"><img src="https://www.opc-router.de/wp-content/uploads/2023/07/Docker_150x150px-01-01-01.png" alt="Docker"></a>
-    <a href="https://"><img src="https://dxc.scene7.com/is/image/dxc/AWS_logo-1050x1050?qlt=90&wid=1200&ts=1733359889549&$square_desktop$&dpr=off" alt="AWS"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Java"></a>
+    
+    <a href="https://"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
     
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
