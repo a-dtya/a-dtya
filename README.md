@@ -1,5 +1,5 @@
 "# a-dtya" 
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://drive.google.com/file/d/1yXdh010nMtcScqfDMT16Xanwkafl5X7g/view?usp=sharing" alt="Illustration" title="Illustration Storyset" width=450/>
     
 <h1 align="left">Hi 👋🏽, I'm Adithya V</h1>
 
