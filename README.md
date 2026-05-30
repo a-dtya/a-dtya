@@ -1,11 +1,11 @@
 <img align="right" src="https://github.com/a-dtya/a-dtya/blob/master/undraw_dev-productivity_5wps.svg" alt="Illustration" title="Illustration Storyset" width=400/>
 
 <h1 align="left">Hi 👋🏽, I'm Adithya V</h1>
-<h3 align="left">Software & Senior AI Architect | Building Next-Gen AI & Security Tools 🚀</h3>
+<h3 align="left">Software Dev | Building Next-Gen AI & Security Tools 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-    <p>• 🏢 I am a Software and Senior AI Architect with over 10 years of experience, currently building an AI-powered OS for <b>alfaEdge</b> and architecting solutions at <b>Eyewa</b>.</p>
+    <p>• 🏢 Building an AI-powered OS for <b>alfaEdge</b> and architecting solutions.
     <p>• 🔭 I’m currently building: <b><a href="https://pkgwatch.vercel.app/">pkgwatch</a></b> (a privacy-first, zero-cloud desktop vulnerability scanner) and <b>Cortex Kit</b> (general Vue.js component libraries for AI orchestration).</p>
     <p>• 🧠 Deep dives: <b>Advanced AI Architectures (RAG, LangGraph, FAISS), Physics-Informed Machine Learning (MIONet, KANs), and high-performance desktop engineering.</b></p>
     <p>• 🌍 Based in: <b>Kochi, Kerala, India</b></p>
@@ -26,7 +26,6 @@
 
 *   🛡️ **[pkgwatch](https://github.com/a-dtya/pkgwatch):** A blazingly fast, locally-executing desktop agent built with **Rust & Tauri** that scans for malicious packages and zero-day vulnerabilities in milliseconds using the Bumblebee Go engine and OSV threat feeds.
 *   🧠 **Cortex Kit & WebMCP:** Developing an advanced Vue.js component library ecosystem and tools enabling AI agents to operate websites natively.
-*   🏦 **SIB Assist Kiosk:** Architected an AI voice agent for enterprise banking clients to orchestrate conversational form-filling and customer assistance.
 
 ---
 
